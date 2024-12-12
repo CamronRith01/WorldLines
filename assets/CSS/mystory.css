@@ -1,13 +1,10 @@
-/* Normalize.css is assumed to be linked */
 
-/* Normalize.css is assumed to be linked */
 
 body {
   margin: 0;
   font-family: Georgia, serif;
   background: url('../images/waterfall.jpg') no-repeat center center fixed;
   background-size: cover;
-  filter: blur(30%);
   display: flex;
   flex-direction: column;
   min-height: 100vh;
